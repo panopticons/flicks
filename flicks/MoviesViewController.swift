@@ -13,6 +13,7 @@ import MBProgressHUD
 class MoviesViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
 
     @IBOutlet weak var movieTable: UITableView!
+    
     var movies : [NSDictionary] = []
     
     func refreshControlAction(_ refreshControl: UIRefreshControl) {
@@ -35,7 +36,6 @@ class MoviesViewController: UIViewController, UITableViewDelegate, UITableViewDa
             refreshControl.endRefreshing()
         }
         task.resume()
-        
     }
     
     override func viewDidLoad() {
@@ -105,5 +105,6 @@ class MoviesViewController: UIViewController, UITableViewDelegate, UITableViewDa
         
         return cell
     }
+    
 }
 
