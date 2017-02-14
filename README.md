@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 - [ ] Movies are displayed using a CollectionView instead of a TableView.
 - [ ] User can search for a movie.
 - [ ] All images fade in as they are loading.
-- [ ] Customize the UI.
+- [x] Customize the UI.
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
@@ -54,7 +54,7 @@ Having to resize the icon for all of the slots was tedious. As was trying to ext
     See the License for the specific language governing permissions and
     limitations under the License.
     
-    ------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
    
 # Project 2 - flicks
 
@@ -81,20 +81,20 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. tab controllers
+2. api requests
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/W1LtDtS.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/W1LtDtS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Programming tabs was odd, especially it being hard to just drag one for this assignment.
 
 ## License
 
