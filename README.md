@@ -55,7 +55,8 @@ Having to resize the icon for all of the slots was tedious. As was trying to ext
     limitations under the License.
     
     ------------------------------------------------------------------------------------------------------------------------
-    # Project 2 - flicks
+   
+# Project 2 - flicks
 
 flicks is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
